@@ -1,0 +1,38 @@
+{
+  "manifest_version": "1.0",
+  "org": "ansible-collections",
+  "repo": "skydive",
+  "versions": [
+    {
+      "commit": "21d837f14ca27dfce9fc35843a27b0d962b4da4b",
+      "parsed_at": "2026-11-07T17:40:18.943543+00:00",
+      "filetree": "filetree/21d837f14ca27dfce9fc35843a27b0d962b4da4b.nq.gz",
+      "blobs": [
+        "blob/e750b93dd173ac068378c52d2cbccbe6bdfcf6e8.nq.gz",
+        "blob/a9772bea1f6568ee5ddb0c318a980c20204d88ce.nq.gz",
+        "blob/172bf5786d1a8805816c0936413c8ee1c1bdf6ed.nq.gz",
+        "blob/3b27d814f4d5d0dd1c45f07204167187bfa019c4.nq.gz",
+        "blob/06a6f5f537d688f1412d0962d549df728493ef8d.nq.gz",
+        "blob/6f0d12b3a5ceb46c71a7004f802a0994bac94d4c.nq.gz",
+        "blob/90d40550bcaa4d5864f570d7ec93cddc941a6efd.nq.gz",
+        "blob/f288702d2fa16d3cdf0035b15a9fcbc552cd88e7.nq.gz",
+        "blob/ba9c980fb86bef62c1cd5c86cd09c6cde80b0cd1.nq.gz",
+        "blob/08c2e17b7a9902e3ef0e249e07454a95634b31a5.nq.gz",
+        "blob/238108317b865ff2e1804e2f184df130cecbdda4.nq.gz",
+        "blob/1aceac0a0c249a11922ec9179b57bd8103716966.nq.gz",
+        "blob/ea1472ec1f38b2d1410951194a02f8fb9f1c820a.nq.gz",
+        "blob/c4189e3644b1f1bcb42dd6b84a7505391902d17b.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/121eab6867ba35e57dc7b01a170b2708f81b7b62.nq.gz",
+        "blob/7f697ac770fd6c48209dd08988abb2de0b6c64a3.nq.gz",
+        "blob/0c3dae1ecc9dec51e00e67e2b31430b34e98d6bc.nq.gz",
+        "blob/f95f3ea6aa30fd1a7309f86fe9960620c93718e3.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
