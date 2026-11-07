@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/skydive/commit/21d837f14ca27dfce9fc35843a27b0d962b4da4b",
       "git:hexsha": "21d837f14ca27dfce9fc35843a27b0d962b4da4b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/skydive/commit/465ac2738ba5df02ebf3cf51a3373c26cc03576e",
